@@ -1,0 +1,10 @@
+<!Doctype HTML>
+<html lang="es">
+<head>
+<meta charset="utf-8"></meta>
+<title>Primer Juego Canvas</title>
+</head>
+<body>
+
+</body>
+</html>
